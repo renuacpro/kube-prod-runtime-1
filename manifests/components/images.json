@@ -11,7 +11,7 @@
     "fluentd": "bitnami/fluentd:1.11.5-debian-10-r57",
     "grafana": "bitnami/grafana:7.1.5-debian-10-r6",
     "keycloak": "jboss/keycloak:8.0.1",
-    "kube-state-metrics": "bitnami/kube-state-metrics:1.9.8-debian-10-r96",
+    "kube-state-metrics": "bitnami/kube-state-metrics:1.9.8-debian-10-r97",
     "kibana": "bitnami/kibana:7.9.3-debian-10-r15",
     "mariadb-galera": "bitnami/mariadb-galera:10.5.9-debian-10-r43",
     "mysqld-exporter": "bitnami/mysqld-exporter:0.12.1-debian-10-r86",
